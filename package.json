@@ -1,0 +1,11 @@
+{
+  "name": "hal-json-schema",
+  "version": "1.0.0",
+  "description": "HAL JSON Schema",
+  "main": "hal.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
